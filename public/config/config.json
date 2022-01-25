@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x491CE65f05529081B245E053720ae9c4329035fB",
+  "SCAN_LINK": "https://moonbase-blockscout.testnet.moonbeam.network/address/0x491CE65f05529081B245E053720ae9c4329035fB",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Moonbase",
+    "SYMBOL": "DEV",
+    "ID": 1287
   },
   "NFT_NAME": "Bored Puppet Yatch Club",
   "SYMBOL": "BPYC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.050,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opensea",
+  "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
   "SHOW_BACKGROUND": true
 }
