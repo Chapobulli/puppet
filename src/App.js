@@ -291,7 +291,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  If you want to enter in {CONFIG.NFT_NAME} community buy our NFT for only {CONFIG.DISPLAY_COST}{" "}
+                  Buy your BPYC for only {CONFIG.DISPLAY_COST} if you want to enter in {CONFIG.NFT_NAME} community {" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.SpacerXSmall />
