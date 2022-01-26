@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit TofuNFT.com to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -292,7 +292,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   Buy your BPYC for only {CONFIG.DISPLAY_COST}{" "}{CONFIG.NETWORK.SYMBOL}
-                  if you want to enter in {CONFIG.NFT_NAME} community.
+                   if you want to enter in {CONFIG.NFT_NAME} community.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
