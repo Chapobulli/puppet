@@ -10,7 +10,7 @@
   "SYMBOL": "BPYC",
   "MAX_SUPPLY": 3333,
   "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.050,
+  "DISPLAY_COST": 0.50,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://tofunft.com/collection/boredpuppetsyachtclub",
