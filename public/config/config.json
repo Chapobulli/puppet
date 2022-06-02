@@ -9,10 +9,10 @@
   "NFT_NAME": "Bored Puppets Yacht Club",
   "SYMBOL": "BPYC",
   "MAX_SUPPLY": 3333,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
-  "MARKETPLACE_LINK": "https://tofunft.com/collection/boredpuppetsyachtclub",
+  "MARKETPLACE_LINK": "https://tapk.it/boredpuppetsyachtclub",
   "SHOW_BACKGROUND": true
 }
